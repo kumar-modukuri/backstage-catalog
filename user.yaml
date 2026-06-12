@@ -3,7 +3,7 @@ kind: User
 
 metadata:
   name: raj
+  title: Raj Kumar
 
 spec:
-  profile:
-    displayName: Raj Kumar
+  memberOf: []
