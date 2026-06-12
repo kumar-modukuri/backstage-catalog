@@ -6,4 +6,4 @@ metadata:
   title: Employee Management System
 
 spec:
-  owner: user:guest
+  owner: user:default/raj
