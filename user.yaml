@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+
+metadata:
+  name: raj
+
+spec:
+  profile:
+    displayName: Raj Kumar
+    email: raj@example.com
