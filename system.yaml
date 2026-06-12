@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+
+metadata:
+  name: employee-management-system
+  title: Employee Management System
+
+spec:
+  owner: user:guest
